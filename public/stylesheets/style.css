@@ -1,0 +1,32 @@
+body {
+    background-image: url("/background.jpeg");
+}
+
+nav {
+    background-color: blue;
+}
+
+nav a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-decoration: none;
+    color: azure;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    position: relative;
+}
+
+.img1 {
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
